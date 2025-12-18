@@ -25,10 +25,10 @@ The goal of this project was to evaluate key airline business metrics and identi
 ---
 
 ## Files Included
-- **`Airline_Data.txt`** – Cleaned airline dataset  
-- **`Airline_Database_and_Cleaning.sql`** – SQL script for database creation and data cleaning  
-- **`Airline_Analysis_Questions.sql`** – SQL queries used to answer analysis questions  
-- **`Airline_Analysis_Solutions.sql`** – SQL queries with results of each analysis  
+- **`Airline_Data.csv`** – Original dataset  
+- **`Database Creation and Data Cleaning.sql`** – SQL script for database creation and data cleaning  
+- **`Analysis_Questions.sql`** – SQL queries used to answer analysis questions  
+- **`Analysis_Solutions.sql`** – SQL queries with results of each analysis 
 - **`Airline_Analysis.pbix`** – Power BI dashboard visualizing airline performance  
 
 ---
