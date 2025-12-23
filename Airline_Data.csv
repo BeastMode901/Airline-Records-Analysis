@@ -1,0 +1,501 @@
+﻿FlightID,Airline,OriginState,OriginCity,DestinationState,DestinationCity,TicketPrice,Passengers,SeatsAvailable,TotalRevenue
+FL0001,Delta,FL,Orlando,NY,Buffalo,244.91,38,68,9306.58
+FL0002,JetBlue,TX,Austin,CO,Colorado Springs,728.25,83,102,60444.8
+FL0003,American,NY,New York,CA,San Diego,681.62,127,155,86565.7
+FL0004,American,CO,Denver,MA,Cambridge,130.21,91,152,11849.1
+FL0005,JetBlue,WA,Tacoma,CA,San Diego,350.14,50,92,17507
+FL0006,United,WA,Seattle,FL,Orlando,779.41,33,64,25720.5
+FL0007,American,CA,Los Angeles,NY,New York,758.91,82,136,62230.6
+FL0008,United,TX,Dallas,CO,Colorado Springs,279.64,18,43,5033.52
+FL0009,Southwest,IL,Springfield,TX,Austin,750.15,12,26,9001.8
+FL0010,American,CA,Los Angeles,NY,New York,213.92,57,128,12193.4
+FL0011,JetBlue,WA,Tacoma,CA,San Francisco,937.79,48,66,45013.9
+FL0012,Southwest,CA,Los Angeles,CO,Denver,615.95,53,145,32645.3
+FL0013,JetBlue,IL,Chicago,TX,Dallas,862.02,18,43,15516.4
+FL0014,JetBlue,CO,Denver,MA,Boston,780.06,13,78,10140.8
+FL0015,JetBlue,MA,Cambridge,TX,Austin,504.97,15,20,7574.55
+FL0016,JetBlue,TX,Austin,IL,Chicago,443.64,105,136,46582.2
+FL0017,United,FL,Tampa,CO,Colorado Springs,306.12,13,21,3979.56
+FL0018,JetBlue,TX,Dallas,CO,Denver,765.25,13,22,9948.25
+FL0019,Delta,CO,Denver,TX,Austin,711.07,71,83,50486
+FL0020,JetBlue,WA,Seattle,TX,Austin,367.78,122,139,44869.2
+FL0021,United,GA,Savannah,MA,Cambridge,943.69,74,139,69833.1
+FL0022,Delta,CO,Colorado,FL,Tampa,619.75,68,93,42143
+FL0023,American,TX,Houston,CO,Denver,812.64,31,63,25191.8
+FL0024,JetBlue,IL,Chicago,MA,Boston,334.82,15,92,5022.3
+FL0025,JetBlue,CO,Denver,MA,Cambridge,449.54,126,129,56642
+FL0026,Delta,CA,Los Angeles,IL,Springfield,831.39,17,70,14133.6
+FL0027,American,GA,Atlanta,IL,Chicago,315.34,27,81,8514.18
+FL0028,United,NY,New York,FL,Orlando,366.01,92,132,33672.9
+FL0029,American,MA,Cambridge,TX,Dallas,330.18,16,40,5282.88
+FL0030,Spirit,MA,Cambridge,GA,Savannah,160.85,111,115,17854.3
+FL0031,American,NY,Albany,TX,Austin,713.14,23,41,16402.2
+FL0032,Southwest,CA,San Francisco,FL,Tampa,654.31,107,115,70011.2
+FL0033,Spirit,WA,Tacoma,FL,Miami,299.8,39,74,11692.2
+FL0034,JetBlue,GA,Atlanta,CA,Los Angeles,579.01,73,92,42267.7
+FL0035,Southwest,CA,San Diego,FL,Tampa,405.91,67,102,27196
+FL0036,JetBlue,CA,Los Angeles,NY,New York,663.57,36,145,23888.5
+FL0037,Delta,GA,Atlanta,CA,San Francisco,641.7,19,126,12192.3
+FL0038,Southwest,FL,Tampa,CA,San Diego,211.6,73,96,15446.8
+FL0039,American,NY,Albany,MA,Boston,169.4,27,70,4573.8
+FL0040,American,FL,Miami,NY,New York,410.44,40,45,16417.6
+FL0041,Delta,CA,San Diego,TX,Dallas,829.27,26,75,21561
+FL0042,JetBlue,NY,Albany,GA,Atlanta,768.64,53,103,40737.9
+FL0043,United,CO,Colorado,FL,Orlando,752.17,53,66,39865
+FL0044,JetBlue,WA,Seattle,FL,Tampa,315.64,12,23,3787.68
+FL0045,JetBlue,WA,Tacoma,FL,Tampa,275.38,83,151,22856.5
+FL0046,Southwest,TX,Austin,GA,Savannah,303.63,104,123,31577.5
+FL0047,JetBlue,WA,Tacoma,IL,Chicago,950.18,64,175,60811.5
+FL0048,Spirit,IL,Springfield,WA,Seattle,267.24,106,144,28327.4
+FL0049,Spirit,CO,Colorado,CA,San Diego,165.65,21,35,3478.65
+FL0050,Southwest,NY,Albany,CA,San Francisco,567.94,18,21,10222.9
+FL0051,Delta,GA,Savannah,IL,Chicago,548.75,15,160,8231.25
+FL0052,Southwest,NY,Buffalo,WA,Tacoma,533,11,30,5863
+FL0053,American,NY,New York,CO,Denver,903.74,94,98,84951.6
+FL0054,JetBlue,MA,Boston,CO,Denver,885.94,146,173,129347
+FL0055,United,TX,Austin,WA,Tacoma,312.01,69,179,21528.7
+FL0056,Delta,NY,Buffalo,WA,Tacoma,896.75,148,161,132719
+FL0057,Spirit,MA,Cambridge,NY,New York,444.32,116,146,51541.1
+FL0058,Southwest,MA,Boston,TX,Dallas,395.23,17,123,6718.91
+FL0059,JetBlue,CA,San Diego,WA,Seattle,370.2,15,80,5553
+FL0060,JetBlue,CO,Colorado,NY,Albany,779.74,33,55,25731.4
+FL0061,United,IL,Chicago,NY,Albany,635.09,115,166,73035.4
+FL0062,American,CO,Colorado,TX,Austin,734.4,21,166,15422.4
+FL0063,Spirit,NY,New York,MA,Cambridge,135.73,57,67,7736.61
+FL0064,American,CO,Colorado,GA,Savannah,338.76,56,64,18970.6
+FL0065,Southwest,FL,Miami,MA,Cambridge,815.16,45,48,36682.2
+FL0066,JetBlue,GA,Atlanta,CO,Denver,138.46,25,52,3461.5
+FL0067,Southwest,GA,Savannah,NY,New York,548.3,21,27,11514.3
+FL0068,American,CO,Colorado,GA,Savannah,842.54,110,144,92679.4
+FL0069,Delta,NY,Albany,MA,Boston,881.05,18,91,15858.9
+FL0070,Spirit,TX,Houston,MA,Boston,322.78,22,24,7101.16
+FL0071,Delta,IL,Springfield,NY,Buffalo,764.12,63,116,48139.6
+FL0072,JetBlue,CO,Denver,IL,Springfield,792.82,26,139,20613.3
+FL0073,Spirit,GA,Atlanta,IL,Springfield,823.1,10,61,8231
+FL0074,JetBlue,NY,Albany,CO,Colorado Springs,650.56,87,124,56598.7
+FL0075,Delta,GA,Savannah,NY,Albany,912.68,49,94,44721.3
+FL0076,Southwest,NY,Albany,GA,Savannah,292.53,29,111,8483.37
+FL0077,American,WA,Tacoma,IL,Springfield,480.81,77,167,37022.4
+FL0078,JetBlue,CA,San Diego,WA,Tacoma,585.69,13,20,7613.97
+FL0079,Southwest,GA,Savannah,IL,Springfield,201.99,43,64,8685.57
+FL0080,American,NY,Buffalo,GA,Savannah,139.79,18,156,2516.22
+FL0081,Delta,IL,Chicago,NY,New York,737.77,36,146,26559.7
+FL0082,Southwest,NY,Buffalo,CO,Denver,746.35,65,72,48512.8
+FL0083,American,TX,Houston,GA,Atlanta,212.83,27,30,5746.41
+FL0084,Southwest,WA,Seattle,TX,Austin,878.1,82,144,72004.2
+FL0085,JetBlue,IL,Springfield,TX,Dallas,441.98,77,122,34032.5
+FL0086,Southwest,CA,San Francisco,IL,Springfield,642.42,86,142,55248.1
+FL0087,Delta,TX,Austin,IL,Chicago,353.01,52,123,18356.5
+FL0088,American,CO,Colorado,TX,Austin,901.91,72,143,64937.5
+FL0089,United,NY,New York,WA,Tacoma,151.05,14,135,2114.7
+FL0090,Spirit,MA,Cambridge,FL,Orlando,900.3,31,37,27909.3
+FL0091,Southwest,NY,Buffalo,CA,Los Angeles,848.32,19,97,16118.1
+FL0092,Delta,WA,Tacoma,NY,Buffalo,480.41,28,140,13451.5
+FL0093,Southwest,NY,New York,TX,Houston,431.9,27,129,11661.3
+FL0094,Spirit,WA,Tacoma,CA,San Diego,832.62,16,21,13321.9
+FL0095,Southwest,CA,San Francisco,IL,Chicago,963.54,13,70,12526
+FL0096,American,CA,Los Angeles,CO,Colorado Springs,736.65,59,84,43462.3
+FL0097,United,TX,Austin,WA,Seattle,745.01,45,52,33525.4
+FL0098,Southwest,MA,Boston,NY,Albany,740.49,15,32,11107.4
+FL0099,Delta,NY,Albany,TX,Houston,465.27,67,161,31173.1
+FL0100,United,CO,Denver,FL,Tampa,215,52,82,11180
+FL0101,Delta,GA,Atlanta,WA,Tacoma,142.86,117,137,16714.6
+FL0102,Southwest,TX,Austin,MA,Cambridge,159.09,99,127,15749.9
+FL0103,United,MA,Boston,TX,Austin,790.65,41,53,32416.7
+FL0104,American,CO,Denver,TX,Dallas,634.22,127,137,80545.9
+FL0105,JetBlue,CO,Denver,WA,Seattle,569.17,40,62,22766.8
+FL0106,Delta,WA,Seattle,TX,Houston,294.12,36,74,10588.3
+FL0107,Southwest,FL,Miami,NY,Buffalo,526.28,20,36,10525.6
+FL0108,Spirit,GA,Savannah,TX,Austin,303.22,17,53,5154.74
+FL0109,Delta,MA,Cambridge,GA,Atlanta,903.79,38,117,34344
+FL0110,JetBlue,GA,Atlanta,TX,Austin,565.6,44,152,24886.4
+FL0111,Delta,MA,Cambridge,IL,Springfield,824.61,86,107,70916.5
+FL0112,Spirit,FL,Orlando,WA,Tacoma,492.74,25,70,12318.5
+FL0113,Southwest,WA,Seattle,MA,Boston,725.86,81,87,58794.7
+FL0114,Delta,NY,Albany,GA,Atlanta,664.25,15,76,9963.75
+FL0115,Delta,NY,Buffalo,GA,Savannah,356.08,10,95,3560.8
+FL0116,American,NY,Albany,FL,Tampa,478.85,11,118,5267.35
+FL0117,Delta,IL,Chicago,CO,Denver,196.68,62,80,12194.2
+FL0118,American,NY,Buffalo,MA,Cambridge,958.6,21,58,20130.6
+FL0119,American,CA,Los Angeles,MA,Boston,221.62,75,125,16621.5
+FL0120,United,IL,Springfield,NY,Albany,298.74,70,138,20911.8
+FL0121,American,TX,Dallas,GA,Atlanta,554.56,23,43,12754.9
+FL0122,Spirit,FL,Orlando,NY,Buffalo,882.44,58,120,51181.5
+FL0123,JetBlue,FL,Tampa,NY,Albany,516.09,42,51,21675.8
+FL0124,American,WA,Tacoma,FL,Tampa,134.55,119,133,16011.5
+FL0125,JetBlue,NY,New York,MA,Cambridge,974.02,115,117,112012
+FL0126,JetBlue,TX,Dallas,MA,Boston,703.46,79,86,55573.3
+FL0127,Delta,MA,Boston,IL,Chicago,456.19,30,33,13685.7
+FL0128,American,GA,Savannah,IL,Chicago,539.16,94,146,50681
+FL0129,Southwest,WA,Seattle,FL,Miami,768.02,121,178,92930.4
+FL0130,Delta,FL,Miami,WA,Seattle,258.75,80,105,20700
+FL0131,JetBlue,WA,Seattle,TX,Houston,131.35,105,169,13791.8
+FL0132,American,FL,Tampa,MA,Cambridge,655.08,14,48,9171.12
+FL0133,JetBlue,WA,Seattle,NY,Buffalo,808.84,40,99,32353.6
+FL0134,Spirit,CO,Colorado,NY,New York,697.29,22,30,15340.4
+FL0135,Delta,MA,Boston,TX,Dallas,785.69,26,82,20427.9
+FL0136,Southwest,NY,New York,IL,Chicago,836.04,54,123,45146.2
+FL0137,Delta,NY,Buffalo,MA,Boston,433.66,37,117,16045.4
+FL0138,Delta,IL,Springfield,TX,Austin,555.11,102,165,56621.2
+FL0139,JetBlue,IL,Chicago,CA,Los Angeles,791.03,17,129,13447.5
+FL0140,United,IL,Springfield,CO,Denver,315.55,151,158,47648.1
+FL0141,Southwest,WA,Seattle,IL,Springfield,580.56,68,108,39478.1
+FL0142,American,MA,Cambridge,WA,Tacoma,657.6,26,64,17097.6
+FL0143,American,IL,Springfield,CO,Denver,593.52,27,143,16025
+FL0144,Delta,NY,Buffalo,TX,Houston,178.26,107,118,19073.8
+FL0145,Delta,NY,Buffalo,IL,Chicago,832.34,25,32,20808.5
+FL0146,Southwest,IL,Springfield,FL,Tampa,481.12,146,166,70243.5
+FL0147,American,CO,Colorado,CA,San Francisco,839.08,10,59,8390.8
+FL0148,United,WA,Seattle,FL,Tampa,928.61,85,86,78931.9
+FL0149,JetBlue,GA,Atlanta,TX,Dallas,521.06,28,79,14589.7
+FL0150,Delta,GA,Savannah,MA,Cambridge,523.08,21,171,10984.7
+FL0151,Delta,CA,San Francisco,WA,Tacoma,308.07,130,175,40049.1
+FL0152,United,FL,Tampa,CA,San Francisco,682.23,13,44,8868.99
+FL0153,Delta,IL,Springfield,CO,Colorado Springs,976.31,22,106,21478.8
+FL0154,Southwest,MA,Cambridge,WA,Tacoma,407.8,24,65,9787.2
+FL0155,Spirit,CA,San Francisco,IL,Springfield,382.51,31,38,11857.8
+FL0156,JetBlue,IL,Chicago,FL,Miami,826.57,32,52,26450.2
+FL0157,American,FL,Miami,WA,Tacoma,257.73,30,36,7731.9
+FL0158,JetBlue,IL,Springfield,WA,Tacoma,269.36,31,130,8350.16
+FL0159,Southwest,MA,Cambridge,FL,Orlando,648.94,145,165,94096.3
+FL0160,Spirit,TX,Austin,FL,Miami,686.49,21,71,14416.3
+FL0161,JetBlue,FL,Orlando,GA,Savannah,489.53,75,155,36714.8
+FL0162,American,WA,Tacoma,CA,Los Angeles,369.06,17,22,6274.02
+FL0163,United,WA,Tacoma,CO,Denver,979.99,19,46,18619.8
+FL0164,Southwest,MA,Boston,CA,San Francisco,728.77,16,31,11660.3
+FL0165,Spirit,MA,Cambridge,WA,Tacoma,392.03,71,72,27834.1
+FL0166,Delta,GA,Atlanta,WA,Seattle,160.26,29,45,4647.54
+FL0167,Spirit,GA,Atlanta,MA,Boston,767.98,55,103,42238.9
+FL0168,United,NY,New York,TX,Houston,125.9,127,165,15989.3
+FL0169,Spirit,TX,Dallas,CA,San Francisco,822.68,18,140,14808.2
+FL0170,Spirit,IL,Springfield,FL,Miami,523.21,60,93,31392.6
+FL0171,American,IL,Springfield,CA,San Francisco,911.7,20,135,18234
+FL0172,JetBlue,CA,San Diego,MA,Cambridge,931.76,47,107,43792.7
+FL0173,Delta,FL,Tampa,WA,Seattle,187.51,11,97,2062.61
+FL0174,Delta,CA,Los Angeles,IL,Chicago,722.76,37,55,26742.1
+FL0175,JetBlue,FL,Tampa,NY,Buffalo,383.96,10,102,3839.6
+FL0176,Southwest,WA,Seattle,IL,Chicago,378.61,53,87,20066.3
+FL0177,JetBlue,WA,Tacoma,FL,Tampa,224.33,63,74,14132.8
+FL0178,Southwest,FL,Miami,GA,Savannah,552.38,25,91,13809.5
+FL0179,Southwest,CA,Los Angeles,FL,Tampa,885.58,85,126,75274.3
+FL0180,Delta,MA,Cambridge,WA,Tacoma,191.92,35,68,6717.2
+FL0181,Delta,WA,Tacoma,IL,Chicago,525.01,93,116,48825.9
+FL0182,Spirit,CO,Colorado,FL,Tampa,388.1,10,118,3881
+FL0183,American,IL,Springfield,CO,Colorado Springs,176.02,12,36,2112.24
+FL0184,Spirit,NY,New York,GA,Savannah,623.81,37,118,23081
+FL0185,JetBlue,IL,Chicago,FL,Orlando,657.95,74,104,48688.3
+FL0186,American,GA,Savannah,TX,Austin,294.7,24,178,7072.8
+FL0187,Delta,IL,Chicago,MA,Cambridge,259.88,118,140,30665.8
+FL0188,Southwest,NY,New York,TX,Dallas,334.33,27,142,9026.91
+FL0189,Delta,CO,Denver,MA,Cambridge,353.37,16,55,5653.92
+FL0190,Spirit,NY,Albany,WA,Tacoma,393.33,53,126,20846.5
+FL0191,United,IL,Chicago,NY,Albany,786.45,88,129,69207.6
+FL0192,American,CO,Denver,MA,Boston,882.58,109,169,96201.2
+FL0193,Spirit,WA,Seattle,NY,Buffalo,827.48,49,114,40546.5
+FL0194,Southwest,IL,Chicago,GA,Savannah,694.52,82,178,56950.6
+FL0195,JetBlue,IL,Chicago,MA,Cambridge,735.73,24,105,17657.5
+FL0196,Delta,NY,Buffalo,MA,Boston,866.69,39,76,33800.9
+FL0197,United,MA,Boston,WA,Seattle,201.11,32,66,6435.52
+FL0198,Southwest,MA,Cambridge,NY,Buffalo,468.23,62,67,29030.3
+FL0199,Southwest,CO,Colorado,TX,Austin,752.48,79,85,59445.9
+FL0200,Southwest,NY,New York,CO,Denver,715.38,13,28,9299.94
+FL0201,Delta,TX,Dallas,FL,Orlando,724.57,141,154,102164
+FL0202,Delta,TX,Dallas,GA,Atlanta,706.59,134,146,94683.1
+FL0203,Spirit,CO,Denver,FL,Miami,513.63,143,178,73449.1
+FL0204,United,TX,Austin,IL,Springfield,331.63,15,46,4974.45
+FL0205,American,GA,Atlanta,IL,Chicago,146.38,14,31,2049.32
+FL0206,American,CA,San Francisco,WA,Tacoma,216.7,77,135,16685.9
+FL0207,American,MA,Cambridge,GA,Atlanta,758.11,139,178,105377
+FL0208,American,TX,Dallas,CA,Los Angeles,545.42,11,58,5999.62
+FL0209,United,WA,Seattle,CO,Colorado Springs,734.08,94,137,69003.5
+FL0210,Spirit,IL,Chicago,TX,Houston,445.88,79,171,35224.5
+FL0211,Spirit,MA,Cambridge,IL,Chicago,855.63,155,170,132623
+FL0212,Southwest,WA,Tacoma,CA,Los Angeles,845.69,82,114,69346.6
+FL0213,Southwest,IL,Springfield,NY,Albany,150.95,77,105,11623.1
+FL0214,JetBlue,MA,Boston,WA,Seattle,476.01,35,99,16660.3
+FL0215,American,NY,Buffalo,IL,Springfield,716.23,33,180,23635.6
+FL0216,Southwest,CO,Denver,CA,San Francisco,496.51,17,123,8440.67
+FL0217,Southwest,MA,Cambridge,TX,Dallas,679.2,22,82,14942.4
+FL0218,Southwest,GA,Savannah,IL,Chicago,800.03,33,109,26401
+FL0219,American,GA,Savannah,IL,Springfield,585.75,79,135,46274.2
+FL0220,Spirit,GA,Atlanta,TX,Dallas,839.33,38,121,31894.5
+FL0221,JetBlue,MA,Cambridge,IL,Springfield,132.2,53,85,7006.6
+FL0222,Spirit,FL,Orlando,CO,Colorado Springs,912.25,160,169,145960
+FL0223,Delta,WA,Seattle,CO,Colorado Springs,339.18,110,150,37309.8
+FL0224,Delta,CO,Denver,IL,Chicago,845.47,66,169,55801
+FL0225,Southwest,NY,Buffalo,TX,Houston,344.08,28,41,9634.24
+FL0226,JetBlue,GA,Savannah,CA,San Francisco,628.33,100,118,62833
+FL0227,JetBlue,FL,Tampa,CO,Denver,468.26,46,118,21540
+FL0228,JetBlue,WA,Seattle,GA,Atlanta,220,16,128,3520
+FL0229,Southwest,FL,Orlando,TX,Dallas,120.38,31,76,3731.78
+FL0230,Delta,CO,Denver,TX,Dallas,442.96,69,88,30564.2
+FL0231,Spirit,FL,Tampa,GA,Atlanta,200.94,18,129,3616.92
+FL0232,Delta,TX,Houston,CA,San Francisco,621.69,142,146,88280
+FL0233,Southwest,CO,Denver,TX,Houston,607.8,19,34,11548.2
+FL0234,Southwest,NY,New York,CA,Los Angeles,806.73,14,34,11294.2
+FL0235,Southwest,GA,Atlanta,NY,New York,796.53,38,48,30268.1
+FL0236,JetBlue,TX,Houston,WA,Tacoma,582.4,135,150,78624
+FL0237,United,CO,Colorado,IL,Chicago,668.13,154,156,102892
+FL0238,JetBlue,WA,Tacoma,FL,Miami,841.36,96,136,80770.6
+FL0239,Southwest,CO,Colorado,CA,San Diego,692.47,46,101,31853.6
+FL0240,American,NY,Albany,CA,San Diego,714.45,30,107,21433.5
+FL0241,American,MA,Boston,CA,San Francisco,753.21,28,83,21089.9
+FL0242,Delta,MA,Boston,FL,Orlando,937.41,108,132,101240
+FL0243,Southwest,GA,Atlanta,NY,Buffalo,682.81,38,153,25946.8
+FL0244,United,CO,Colorado,FL,Miami,924.77,77,142,71207.3
+FL0245,United,CO,Colorado,MA,Boston,154.55,29,49,4481.95
+FL0246,Spirit,MA,Cambridge,TX,Houston,730.99,136,149,99414.6
+FL0247,JetBlue,IL,Chicago,CO,Denver,978.02,20,21,19560.4
+FL0248,Spirit,WA,Seattle,FL,Tampa,638.8,35,98,22358
+FL0249,Southwest,IL,Chicago,TX,Dallas,632.61,63,68,39854.4
+FL0250,Spirit,GA,Savannah,CO,Colorado Springs,235.19,36,76,8466.84
+FL0251,United,CA,San Francisco,MA,Boston,596.8,105,179,62664
+FL0252,United,CA,San Francisco,CO,Denver,277.46,65,67,18034.9
+FL0253,American,WA,Seattle,GA,Savannah,437.72,122,163,53401.8
+FL0254,Spirit,TX,Houston,WA,Seattle,378.03,52,89,19657.6
+FL0255,American,NY,Albany,TX,Houston,175.66,31,49,5445.46
+FL0256,Delta,FL,Tampa,NY,New York,499.14,57,172,28451
+FL0257,American,MA,Cambridge,FL,Miami,942.17,99,112,93274.8
+FL0258,Delta,CO,Denver,WA,Seattle,563.27,12,53,6759.24
+FL0259,JetBlue,CA,San Francisco,NY,New York,666.02,91,125,60607.8
+FL0260,JetBlue,WA,Tacoma,CA,Los Angeles,707.62,18,42,12737.2
+FL0261,Southwest,GA,Atlanta,WA,Tacoma,283.52,26,71,7371.52
+FL0262,Southwest,TX,Houston,CO,Colorado Springs,283.56,128,133,36295.7
+FL0263,American,MA,Boston,CA,Los Angeles,812.12,34,135,27612.1
+FL0264,Spirit,GA,Savannah,FL,Tampa,361.42,102,110,36864.8
+FL0265,Southwest,FL,Tampa,TX,Dallas,158.23,37,98,5854.51
+FL0266,Spirit,IL,Chicago,WA,Seattle,912.31,111,132,101266
+FL0267,Delta,TX,Austin,NY,New York,492.85,73,148,35978.1
+FL0268,Southwest,GA,Atlanta,CA,San Diego,383.46,80,108,30676.8
+FL0269,United,CO,Colorado,NY,Albany,426.13,44,60,18749.7
+FL0270,Delta,FL,Miami,GA,Atlanta,792.13,64,69,50696.3
+FL0271,United,NY,New York,WA,Seattle,426.92,69,112,29457.5
+FL0272,American,CO,Denver,CA,San Diego,202.99,58,115,11773.4
+FL0273,Delta,TX,Houston,IL,Chicago,657.42,83,124,54565.9
+FL0274,American,WA,Seattle,MA,Cambridge,472.39,35,153,16533.7
+FL0275,American,IL,Springfield,CA,San Diego,708.89,55,72,38988.9
+FL0276,Southwest,CO,Denver,MA,Boston,854.98,48,50,41039
+FL0277,United,CA,Los Angeles,IL,Springfield,163,63,76,10269
+FL0278,Delta,WA,Tacoma,TX,Austin,633.36,140,164,88670.4
+FL0279,JetBlue,GA,Atlanta,FL,Miami,177.65,79,113,14034.4
+FL0280,United,CO,Colorado,NY,Buffalo,357.35,34,35,12149.9
+FL0281,JetBlue,FL,Orlando,MA,Boston,850.27,23,59,19556.2
+FL0282,United,CA,Los Angeles,GA,Savannah,315.52,30,57,9465.6
+FL0283,United,FL,Tampa,TX,Houston,934.29,63,136,58860.3
+FL0284,Southwest,IL,Springfield,GA,Savannah,845.13,60,80,50707.8
+FL0285,Delta,CA,San Diego,CO,Colorado Springs,820.35,27,65,22149.5
+FL0286,United,IL,Springfield,CA,Los Angeles,443.12,46,155,20383.5
+FL0287,Spirit,TX,Dallas,NY,New York,485.91,131,169,63654.2
+FL0288,Spirit,NY,Buffalo,CO,Denver,269.82,102,158,27521.6
+FL0289,Delta,NY,New York,FL,Tampa,499.57,72,151,35969
+FL0290,Spirit,CO,Colorado,MA,Cambridge,314.85,45,119,14168.2
+FL0291,JetBlue,TX,Dallas,IL,Springfield,331.54,43,45,14256.2
+FL0292,Spirit,MA,Boston,FL,Orlando,257.37,151,153,38862.9
+FL0293,United,GA,Atlanta,WA,Seattle,517.23,55,173,28447.7
+FL0294,American,CO,Colorado,NY,Buffalo,186.51,93,109,17345.4
+FL0295,JetBlue,CO,Denver,TX,Dallas,731.92,10,22,7319.2
+FL0296,Spirit,IL,Springfield,FL,Tampa,554.7,80,141,44376
+FL0297,JetBlue,NY,Buffalo,TX,Dallas,281.15,21,162,5904.15
+FL0298,JetBlue,TX,Houston,IL,Chicago,863.91,44,68,38012
+FL0299,JetBlue,FL,Orlando,TX,Dallas,404.98,77,141,31183.5
+FL0300,Spirit,IL,Chicago,WA,Seattle,163.79,38,48,6224.02
+FL0301,Delta,CA,San Francisco,GA,Atlanta,514.7,32,38,16470.4
+FL0302,Southwest,CO,Colorado,GA,Atlanta,394.17,19,21,7489.23
+FL0303,American,IL,Chicago,GA,Atlanta,177.7,151,152,26832.7
+FL0304,Delta,MA,Cambridge,FL,Orlando,752.98,121,130,91110.6
+FL0305,Southwest,WA,Seattle,CA,San Diego,290.49,44,60,12781.6
+FL0306,Southwest,CO,Denver,WA,Tacoma,945.75,93,99,87954.8
+FL0307,Southwest,TX,Austin,FL,Orlando,262.92,11,83,2892.12
+FL0308,JetBlue,MA,Boston,FL,Orlando,763.57,69,124,52686.3
+FL0309,American,IL,Chicago,CA,San Francisco,446.96,19,130,8492.24
+FL0310,United,IL,Chicago,NY,Buffalo,700.78,20,48,14015.6
+FL0311,Spirit,CA,San Francisco,TX,Austin,709.64,37,148,26256.7
+FL0312,Southwest,MA,Cambridge,CA,San Francisco,766.7,16,92,12267.2
+FL0313,American,CA,Los Angeles,IL,Chicago,122.92,17,172,2089.64
+FL0314,American,CA,Los Angeles,FL,Orlando,328.49,61,65,20037.9
+FL0315,Delta,IL,Chicago,GA,Atlanta,513.53,101,137,51866.5
+FL0316,Spirit,WA,Tacoma,FL,Tampa,855.54,17,62,14544.2
+FL0317,American,FL,Tampa,CO,Denver,961.02,126,178,121089
+FL0318,JetBlue,TX,Houston,NY,Buffalo,513.45,19,115,9755.55
+FL0319,JetBlue,IL,Springfield,WA,Tacoma,629.52,24,26,15108.5
+FL0320,JetBlue,IL,Chicago,CA,San Diego,701.62,14,23,9822.68
+FL0321,Southwest,TX,Houston,CA,Los Angeles,844.5,21,38,17734.5
+FL0322,Spirit,WA,Seattle,CO,Colorado Springs,576.48,39,153,22482.7
+FL0323,American,NY,New York,MA,Cambridge,327.23,45,75,14725.4
+FL0324,Delta,CA,San Francisco,CO,Denver,874.72,73,174,63854.6
+FL0325,Southwest,TX,Austin,IL,Springfield,811.79,138,155,112027
+FL0326,Southwest,NY,Albany,MA,Boston,604.18,39,175,23563
+FL0327,Delta,GA,Savannah,WA,Tacoma,529.15,72,142,38098.8
+FL0328,Spirit,CO,Colorado,GA,Savannah,208.5,134,166,27939
+FL0329,American,GA,Savannah,FL,Orlando,607.74,56,87,34033.4
+FL0330,Southwest,NY,Buffalo,TX,Austin,615.41,35,59,21539.3
+FL0331,United,NY,Buffalo,FL,Orlando,692.18,11,112,7613.98
+FL0332,Delta,GA,Savannah,TX,Houston,716.49,67,78,48004.8
+FL0333,JetBlue,GA,Savannah,MA,Boston,765.78,86,126,65857.1
+FL0334,JetBlue,IL,Chicago,WA,Tacoma,553.75,109,139,60358.8
+FL0335,Delta,MA,Cambridge,IL,Springfield,470.67,10,37,4706.7
+FL0336,Spirit,CO,Colorado,GA,Atlanta,729.72,103,118,75161.2
+FL0337,Southwest,NY,Buffalo,CA,Los Angeles,596.47,14,111,8350.58
+FL0338,Delta,CO,Colorado,TX,Austin,355.4,93,122,33052.2
+FL0339,Delta,FL,Miami,WA,Seattle,479.14,23,59,11020.2
+FL0340,Spirit,GA,Atlanta,FL,Orlando,221.73,24,117,5321.52
+FL0341,American,CO,Colorado,CA,Los Angeles,771.67,20,78,15433.4
+FL0342,United,GA,Atlanta,TX,Houston,877.24,34,157,29826.2
+FL0343,American,FL,Orlando,NY,Albany,526.51,34,58,17901.3
+FL0344,Southwest,FL,Miami,TX,Austin,159.49,63,134,10047.9
+FL0345,Southwest,IL,Chicago,CO,Denver,169.92,37,81,6287.04
+FL0346,United,TX,Houston,IL,Springfield,424.84,76,131,32287.8
+FL0347,American,MA,Boston,CO,Colorado Springs,233.98,65,91,15208.7
+FL0348,American,NY,Buffalo,FL,Orlando,465.01,71,77,33015.7
+FL0349,Spirit,WA,Tacoma,IL,Chicago,907.89,135,141,122565
+FL0350,Delta,MA,Boston,FL,Miami,875.69,31,88,27146.4
+FL0351,Delta,IL,Chicago,FL,Miami,781.32,45,134,35159.4
+FL0352,American,TX,Houston,MA,Boston,759.21,110,179,83513.1
+FL0353,JetBlue,CA,San Francisco,CO,Colorado Springs,962.6,120,137,115512
+FL0354,United,CO,Denver,WA,Tacoma,279.52,18,54,5031.36
+FL0355,Southwest,IL,Chicago,CO,Colorado Springs,769.22,11,103,8461.42
+FL0356,American,TX,Austin,FL,Tampa,952.36,98,142,93331.3
+FL0357,United,WA,Tacoma,MA,Boston,578.49,12,32,6941.88
+FL0358,JetBlue,TX,Austin,IL,Springfield,475.54,20,63,9510.8
+FL0359,United,WA,Seattle,IL,Springfield,872.8,91,140,79424.8
+FL0360,Delta,GA,Savannah,WA,Seattle,207.2,98,151,20305.6
+FL0361,Spirit,CA,Los Angeles,NY,New York,906.34,45,75,40785.3
+FL0362,JetBlue,CA,San Francisco,FL,Tampa,643.39,86,91,55331.5
+FL0363,American,TX,Austin,CA,San Diego,808.96,119,176,96266.2
+FL0364,United,FL,Miami,NY,Albany,341.05,20,55,6821
+FL0365,JetBlue,CO,Colorado,CA,Los Angeles,128.12,17,136,2178.04
+FL0366,JetBlue,GA,Atlanta,NY,Buffalo,746.56,45,132,33595.2
+FL0367,JetBlue,TX,Houston,CO,Denver,748.82,52,79,38938.6
+FL0368,JetBlue,GA,Atlanta,IL,Chicago,474.52,39,56,18506.3
+FL0369,Delta,TX,Dallas,MA,Cambridge,775.2,12,55,9302.4
+FL0370,Spirit,FL,Tampa,MA,Cambridge,192.94,45,92,8682.3
+FL0371,United,MA,Cambridge,IL,Chicago,380.55,24,60,9133.2
+FL0372,Spirit,CA,San Diego,FL,Tampa,392.77,70,95,27493.9
+FL0373,JetBlue,CO,Colorado,TX,Houston,513.25,14,98,7185.5
+FL0374,American,TX,Houston,GA,Atlanta,319.01,26,38,8294.26
+FL0375,Spirit,GA,Savannah,WA,Tacoma,557.57,91,132,50738.9
+FL0376,Southwest,MA,Boston,TX,Houston,918.26,75,147,68869.5
+FL0377,JetBlue,MA,Cambridge,FL,Tampa,770.26,92,109,70863.9
+FL0378,Southwest,TX,Austin,CO,Colorado Springs,843.87,123,153,103796
+FL0379,Southwest,FL,Orlando,MA,Cambridge,763.09,38,47,28997.4
+FL0380,Delta,CA,Los Angeles,MA,Cambridge,938,101,167,94738
+FL0381,American,FL,Tampa,NY,Buffalo,686.94,41,46,28164.5
+FL0382,United,TX,Austin,NY,Albany,448.88,14,141,6284.32
+FL0383,JetBlue,IL,Springfield,WA,Tacoma,821.44,99,155,81322.6
+FL0384,Delta,IL,Springfield,MA,Boston,319.85,47,154,15033
+FL0385,Delta,WA,Tacoma,NY,Buffalo,782.27,43,175,33637.6
+FL0386,Delta,FL,Tampa,IL,Chicago,281.42,68,132,19136.6
+FL0387,Southwest,FL,Miami,CA,San Diego,352.64,10,33,3526.4
+FL0388,Delta,CA,San Francisco,MA,Boston,752.09,17,73,12785.5
+FL0389,JetBlue,TX,Houston,IL,Springfield,733.16,80,136,58652.8
+FL0390,Delta,CO,Colorado,WA,Seattle,972.27,67,93,65142.1
+FL0391,American,CO,Denver,FL,Orlando,273.11,129,175,35231.2
+FL0392,JetBlue,IL,Springfield,NY,Albany,581.44,35,129,20350.4
+FL0393,Delta,CO,Denver,IL,Chicago,685.39,31,39,21247.1
+FL0394,Southwest,TX,Houston,CO,Denver,313.72,64,95,20078.1
+FL0395,Spirit,IL,Chicago,TX,Austin,359.96,116,158,41755.4
+FL0396,Spirit,GA,Atlanta,CA,San Diego,436.38,68,126,29673.8
+FL0397,American,FL,Miami,IL,Springfield,199.87,52,94,10393.2
+FL0398,American,NY,Albany,CO,Colorado Springs,250.81,23,24,5768.63
+FL0399,Spirit,GA,Savannah,NY,New York,234.99,31,85,7284.69
+FL0400,American,NY,Buffalo,TX,Dallas,516.44,110,160,56808.4
+FL0401,American,WA,Seattle,NY,Albany,736.8,37,71,27261.6
+FL0402,Spirit,CO,Denver,MA,Cambridge,732.29,73,125,53457.2
+FL0403,American,WA,Seattle,GA,Savannah,179.57,29,96,5207.53
+FL0404,Spirit,WA,Tacoma,MA,Boston,466.53,101,104,47119.5
+FL0405,American,TX,Houston,IL,Springfield,752.78,29,30,21830.6
+FL0406,Southwest,CA,San Diego,IL,Springfield,539.1,34,132,18329.4
+FL0407,Southwest,CA,San Diego,CO,Colorado Springs,684.33,58,166,39691.1
+FL0408,Delta,TX,Houston,FL,Tampa,838.28,11,31,9221.08
+FL0409,American,IL,Chicago,GA,Savannah,580.5,88,95,51084
+FL0410,Spirit,TX,Houston,FL,Tampa,285.54,30,40,8566.2
+FL0411,JetBlue,GA,Atlanta,CO,Colorado Springs,706.55,25,87,17663.8
+FL0412,United,CA,Los Angeles,MA,Cambridge,612.03,66,122,40394
+FL0413,United,CA,San Francisco,CO,Denver,194.85,22,44,4286.7
+FL0414,United,IL,Chicago,TX,Austin,388.68,16,125,6218.88
+FL0415,Delta,CO,Denver,NY,Albany,358.65,24,58,8607.6
+FL0416,Delta,IL,Chicago,CA,Los Angeles,721.07,21,73,15142.5
+FL0417,United,CA,Los Angeles,TX,Houston,791.17,37,64,29273.3
+FL0418,American,CA,Los Angeles,WA,Tacoma,600.24,13,26,7803.12
+FL0419,Southwest,FL,Tampa,WA,Seattle,414.53,56,112,23213.7
+FL0420,Southwest,CA,San Diego,CO,Colorado Springs,485.51,43,64,20876.9
+FL0421,Southwest,FL,Tampa,CO,Denver,870.89,26,153,22643.1
+FL0422,Spirit,WA,Tacoma,GA,Savannah,933.3,19,90,17732.7
+FL0423,Spirit,CO,Colorado,FL,Tampa,187.83,101,149,18970.8
+FL0424,Spirit,FL,Orlando,NY,New York,657.17,35,116,23001
+FL0425,Southwest,CA,San Diego,TX,Houston,708.91,69,179,48914.8
+FL0426,Southwest,CO,Colorado,FL,Tampa,637.76,28,92,17857.3
+FL0427,Spirit,WA,Tacoma,IL,Springfield,429.52,107,114,45958.6
+FL0428,American,IL,Springfield,WA,Tacoma,503.05,11,79,5533.55
+FL0429,Southwest,FL,Tampa,IL,Springfield,966.69,19,33,18367.1
+FL0430,Southwest,TX,Houston,GA,Atlanta,654.29,54,100,35331.7
+FL0431,Southwest,WA,Seattle,NY,Albany,412.56,10,95,4125.6
+FL0432,United,TX,Dallas,NY,New York,831.78,105,159,87336.9
+FL0433,JetBlue,WA,Tacoma,TX,Houston,862.84,26,61,22433.8
+FL0434,JetBlue,FL,Orlando,IL,Springfield,202.8,46,59,9328.8
+FL0435,Delta,IL,Springfield,NY,Buffalo,524.5,11,28,5769.5
+FL0436,American,WA,Seattle,CA,San Diego,733,11,37,8063
+FL0437,JetBlue,NY,New York,WA,Seattle,683.87,141,166,96425.7
+FL0438,Spirit,WA,Seattle,FL,Tampa,361.47,57,151,20603.8
+FL0439,Southwest,GA,Atlanta,IL,Springfield,355.82,25,33,8895.5
+FL0440,JetBlue,IL,Springfield,NY,Albany,899.92,92,138,82792.6
+FL0441,Delta,WA,Tacoma,TX,Austin,509.43,63,97,32094.1
+FL0442,Spirit,CO,Colorado,TX,Houston,962.95,59,155,56814.1
+FL0443,American,GA,Atlanta,CO,Colorado Springs,623.27,45,80,28047.2
+FL0444,Southwest,GA,Savannah,IL,Springfield,249.1,129,133,32133.9
+FL0445,Delta,GA,Savannah,FL,Miami,527.93,12,55,6335.16
+FL0446,Southwest,WA,Seattle,GA,Savannah,325.98,18,151,5867.64
+FL0447,Spirit,CO,Denver,FL,Miami,207.63,135,145,28030
+FL0448,JetBlue,IL,Springfield,MA,Boston,714.22,26,69,18569.7
+FL0449,Delta,NY,New York,GA,Atlanta,428.94,28,36,12010.3
+FL0450,Delta,GA,Savannah,CO,Colorado Springs,976.69,14,73,13673.7
+FL0451,United,MA,Cambridge,WA,Tacoma,585.22,62,122,36283.6
+FL0452,Delta,CA,San Diego,WA,Tacoma,450.16,84,96,37813.4
+FL0453,Spirit,CA,San Francisco,TX,Dallas,133.86,12,65,1606.32
+FL0454,JetBlue,GA,Atlanta,IL,Chicago,522.33,52,72,27161.2
+FL0455,Spirit,FL,Orlando,GA,Atlanta,930.58,28,116,26056.2
+FL0456,Delta,IL,Chicago,MA,Boston,550.27,16,23,8804.32
+FL0457,Spirit,TX,Austin,MA,Boston,453.82,15,39,6807.3
+FL0458,Southwest,TX,Dallas,FL,Miami,961.37,24,46,23072.9
+FL0459,JetBlue,MA,Cambridge,CA,San Diego,915.98,34,114,31143.3
+FL0460,Delta,GA,Savannah,MA,Boston,490.6,109,176,53475.4
+FL0461,Southwest,CO,Colorado,MA,Boston,864.34,49,121,42352.7
+FL0462,JetBlue,CA,San Diego,WA,Seattle,888.11,23,26,20426.5
+FL0463,Spirit,IL,Chicago,GA,Savannah,375.07,13,48,4875.91
+FL0464,United,MA,Boston,CO,Colorado Springs,964.24,80,109,77139.2
+FL0465,JetBlue,NY,Buffalo,WA,Tacoma,291.53,25,68,7288.25
+FL0466,Delta,NY,Albany,TX,Austin,711.28,11,20,7824.08
+FL0467,American,FL,Tampa,CO,Denver,844.35,34,90,28707.9
+FL0468,Spirit,TX,Houston,NY,Buffalo,932.19,117,138,109066
+FL0469,Southwest,IL,Springfield,FL,Miami,929.43,13,51,12082.6
+FL0470,American,TX,Austin,GA,Atlanta,274.08,16,43,4385.28
+FL0471,American,CO,Colorado,WA,Tacoma,664.49,63,171,41862.9
+FL0472,Spirit,CO,Colorado,TX,Austin,803.1,20,35,16062
+FL0473,Southwest,FL,Tampa,CO,Colorado Springs,726.07,106,165,76963.4
+FL0474,United,WA,Seattle,NY,Albany,128.38,15,23,1925.7
+FL0475,United,CO,Denver,WA,Seattle,886.98,15,35,13304.7
+FL0476,Southwest,CA,San Diego,GA,Savannah,394.08,37,60,14581
+FL0477,United,FL,Tampa,CO,Denver,564.32,49,64,27651.7
+FL0478,American,MA,Boston,CO,Denver,557.56,106,180,59101.4
+FL0479,Spirit,IL,Springfield,TX,Dallas,830.66,29,106,24089.1
+FL0480,Spirit,GA,Savannah,TX,Dallas,563.95,144,171,81208.8
+FL0481,United,IL,Chicago,NY,Buffalo,644.29,12,115,7731.48
+FL0482,Delta,GA,Savannah,CO,Colorado Springs,400.32,13,50,5204.16
+FL0483,United,TX,Austin,WA,Seattle,856.68,14,177,11993.5
+FL0484,Delta,TX,Austin,IL,Springfield,867.65,30,179,26029.5
+FL0485,American,NY,Albany,TX,Dallas,415.78,26,102,10810.3
+FL0486,JetBlue,NY,Buffalo,TX,Dallas,923.78,80,108,73902.4
+FL0487,Southwest,IL,Springfield,MA,Cambridge,143.47,136,144,19511.9
+FL0488,JetBlue,CO,Denver,MA,Cambridge,946.44,38,147,35964.7
+FL0489,Delta,IL,Chicago,WA,Seattle,596.3,25,54,14907.5
+FL0490,American,FL,Orlando,NY,Buffalo,157.56,92,130,14495.5
+FL0491,Southwest,FL,Tampa,CO,Denver,853.99,15,180,12809.9
+FL0492,Spirit,TX,Houston,WA,Tacoma,639.7,77,99,49256.9
+FL0493,Delta,CO,Colorado,FL,Tampa,953.78,34,52,32428.5
+FL0494,JetBlue,FL,Tampa,MA,Boston,866.98,70,79,60688.6
+FL0495,Southwest,MA,Cambridge,IL,Chicago,496.78,53,83,26329.3
+FL0496,Spirit,CO,Denver,WA,Tacoma,264.3,11,28,2907.3
+FL0497,United,IL,Chicago,CO,Colorado Springs,133.46,19,143,2535.74
+FL0498,American,CO,Colorado,NY,Buffalo,431.44,18,22,7765.92
+FL0499,United,TX,Houston,FL,Tampa,243.15,115,143,27962.2
+FL0500,Delta,FL,Orlando,CO,Colorado Springs,755.98,77,87,58210.5
