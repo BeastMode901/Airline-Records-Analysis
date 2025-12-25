@@ -1,4 +1,4 @@
-# Airline Data Analysis
+# Airline Revenue & Route Performance Analysis
 
 ## Project Overview
 This project analyzes a 500-row airline dataset to uncover insights related to airline revenue performance, route profitability, passenger traffic, ticket pricing, and flight capacity utilization. Using SQL and Power BI, I explored how different airlines, routes, and cities contribute to overall revenue and passenger movement. The goal of this project was to evaluate key airline business metrics and identify patterns that support operational and strategic decision-making.
